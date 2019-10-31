@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     name = "Blog"
-    url = "/post/"
+    url = "/content/post/"
     weight = 1
   [[menu.main]]
     name = "Categories"
