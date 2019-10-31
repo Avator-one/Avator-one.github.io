@@ -16,6 +16,7 @@ Hugo `0.48` is built with the brand new Go 1.11. On the technical side this mean
 Var is {{ $var }}
 ```
 
+
 The above may look obvious, but has not been possible until now. In Hugo we have had `.Scratch` as a workaround for this, but Go 1.11 will help clean up a lot of templates.
 
 This release represents **23 contributions by 5 contributors** to the main Hugo code base. [@bep](https://github.com/bep) leads the Hugo development with a significant amount of contributions, but also a big shoutout to [@anthonyfok](https://github.com/anthonyfok), [@vsopvsop](https://github.com/vsopvsop), and [@moorereason](https://github.com/moorereason) for their ongoing contributions. And a big thanks to [@digitalcraftsman](https://github.com/digitalcraftsman) for his relentless work on keeping the themes site in pristine condition and to [@kaushalmodi](https://github.com/kaushalmodi) for his great work on the documentation site.

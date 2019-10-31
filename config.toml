@@ -40,16 +40,16 @@ googleAnalytics = ""
     weight = 4
 
 [params]
-    since = 2011
-    author = "ZHOUDUO"                           # Author's name
-    avatar = "/images/me/avatar.jpeg"           # Author's avatar
-    subtitle = "Keep Simple"         # Subtitle
+    since = 2019
+    author = "ZHOUDUO"                           # 作者名
+    avatar = "/images/me/avatar.jpeg"           # 作者头像
+    subtitle = "Keep Simple"         # 副标题
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
     google_verification = ""
    
-    description = "" # site description
+    description = "" # 站点描述
     keywords = "" # site keywords
 
     beian = ""
@@ -58,13 +58,7 @@ googleAnalytics = ""
     license= '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
 
 [params.social]
-    GitHub = "https://github.com/Avator-one/"
-    Twitter = "xxoo"
+    GitHub = "https://github.com/Avator-one/"   
     Email   = "15735903073@163.com"
-    Instagram = "xxoo"
     Wechat = "/images/me/wechat.png"  # Wechat QRcode image
-    Facebook = "xxoo"
-    Telegram = "xxoo"
-    Dribbble = "xxoo"
-    Medium = "xxoo"
 
