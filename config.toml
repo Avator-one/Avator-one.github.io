@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "zh-CN"
+title = "ZD Blo"
+theme = "ananke"
+hasCJKLanguage = true
+preserveTaxonomyNames = true
+paginate = 10
+paginatePath = "page"
+enableEmoji = false
+
+# 创建robots.txt，建议设置为true
+enableRobotsTXT = true
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
