@@ -41,15 +41,15 @@ googleAnalytics = ""
 
 [params]
     since = 2019
-    author = "ZHOUDUO"                           # 作者名
-    avatar = "/images/me/avatar.jpeg"           # 作者头像
-    subtitle = "Keep Simple"         # 副标题
+    author = "ZHOUDUO"                           # zuozheming
+    avatar = "/images/me/avatar.jpeg"           # zuozhetouxiang
+    subtitle = "Keep Simple"         # fubiaoti
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
     google_verification = ""
    
-    description = "" # 站点描述
+    description = "" # zhandianmiaoshu
     keywords = "" # site keywords
 
     beian = ""
