@@ -1,5 +1,5 @@
 baseURL = "https://avator-one.github.io"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "ZD Blo"
 theme = "LeaveIt"
 hasCJKLanguage = true
@@ -16,7 +16,7 @@ googleAnalytics = ""
   noreferrerLinks = true
 
 [Permalinks]
- posts = "/:year/:filename/"
+  posts = "/:year/:filename/"
 
 [menu]
   [[menu.main]]
@@ -58,7 +58,7 @@ googleAnalytics = ""
     license= '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
 
 [params.social]
-    GitHub = "https://github.com/Avator-one/"   
-    Email   = "15735903073@163.com"
+    GitHub = "Avator-one/"   
+    Email = "15735903073@163.com"
     Wechat = "/images/me/wechat.png"  # Wechat QRcode image
 
