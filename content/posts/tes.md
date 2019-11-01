@@ -1,7 +1,7 @@
 ---
 title: "Tes"
-date: 2019-11-01T08:33:12+08:00
-draft: true
+date: 2019-11-01
+categories: ["Uncategorized"]
 ---
 
 # markdown测试文本  

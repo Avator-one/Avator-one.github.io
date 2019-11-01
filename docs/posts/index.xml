@@ -6,10 +6,19 @@
     <description>Recent content in Posts on ZD Blo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://avator-one.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tes</title>
+      <link>https://avator-one.github.io/2019/tes/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://avator-one.github.io/2019/tes/</guid>
+      <description>markdown测试文本 测试标题 测试内容 倾斜 加粗 加粗倾斜 这是我插入的文字 1.有序列表1 2.有序列表2 baidu print (&amp;quot;你好&amp;quot;) 这是</description>
+    </item>
     
     <item>
       <title>Creating a New Theme</title>
@@ -54,16 +63,6 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://avator-one.github.io/1/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://avator-one.github.io/1/test/</guid>
-      <description>#markdown测试文本 ##**测试标题 测试内容 *倾斜 **加粗 ***加粗倾斜 1.有序列表1 2.有序列表2 ！我的链接 ````python print (&amp;ldquo;你好&amp;rdquo;)
-`` ~这是被划线的~</description>
     </item>
     
   </channel>
